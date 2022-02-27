@@ -1,0 +1,211 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull newes from the King, and His Majesties remonstrance and resolution touching the Army; delivered to Captain Hatfield on Saturday last in the Isle of Wight, to be communicaated to all loyall and faithfull subjects, and dispersed throughout the severall counties within the Kingdom of England, and Dominion of Wales. Also, a fleet at sea neer the Isle of Wight, and their design to rescue his Majesty from the Army. And terrible newes from VVestminster. Decemb. 4. 1648.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87411</idno>
+            <idno type="STC">Wing J1147</idno>
+            <idno type="STC">Thomason E475_7</idno>
+            <idno type="STC">ESTC R205384</idno>
+            <idno type="EEBO-CITATION">99864785</idno>
+            <idno type="PROQUEST">99864785</idno>
+            <idno type="VID">162469</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162469)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull newes from the King, and His Majesties remonstrance and resolution touching the Army; delivered to Captain Hatfield on Saturday last in the Isle of Wight, to be communicaated to all loyall and faithfull subjects, and dispersed throughout the severall counties within the Kingdom of England, and Dominion of Wales. Also, a fleet at sea neer the Isle of Wight, and their design to rescue his Majesty from the Army. And terrible newes from VVestminster. Decemb. 4. 1648.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Baitman, neer Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 5".</note>
+                  <note>The "m" in "army" in line eleven of title is inverted.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162469:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <p>JOYFULL NEWES FROM THE KING, And His Majeſties <hi>Remonstrance</hi> and <hi>Reſolution</hi> touching the Army; Delivered to Captain <hi>Hatfield</hi> on Saturday laſt in the Iſle of <hi>Wigbt,</hi> to be communicated to all loyall and faithfull Subjects, and diſperſed throughout the ſeve<g ref="char:EOLhyphen"/>rall Counties within the Kingdom of <hi>England,</hi> and Domi<g ref="char:EOLhyphen"/>nion of <hi>Wales.</hi> Alſo, a Fleet at Sea neer the Iſle of <hi>Wight,</hi> and their Deſign to reſcue his Majeſty from the Army. And terrible Newes from <hi>VVeſtminſter. Decemb.</hi> 4. 1648.</p>
+            <figure>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>London.</hi> Printed for J. <hi>Baitman.</hi> neer Temple-Bar, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162469:2"/>
+            <!-- PDF PAGE 30 -->
+            <pb n="1" facs="tcp:162469:2"/>
+            <!-- PDF PAGE 30 -->
+            <head>JOYFULL NEVVES FROM THE KING Declaring His Majeſties Reſolution concerning the Army, and the bloudy proceedings in the Iſle of <hi>WIGHT.</hi>
+            </head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Right Honourable,</salute>
+                  </opener>
+                  <p>HIs Majeſty having ſeriouſly peruſed the Re<g ref="char:EOLhyphen"/>monſtrance of the Army, finds it to be of ſo high a nature, that He can<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ot but ſtand amaz'd at the ſence, ſcope, and method thereof and doth de<g ref="char:EOLhyphen"/>clare, <hi>That He ſhould rather ſacrifice His life, for His People, and a good Conſcience, than be guilty of the En<g ref="char:EOLhyphen"/>gagement
+<pb n="2" facs="tcp:162469:3"/>
+                        <!-- PDF PAGE 31 -->
+of modelling and establiſhing a new Govern<g ref="char:EOLhyphen"/>ment;</hi> but withall remonſtrates, <hi>That He approves of their Propoſals for rectifying the Law, and purging the a<g ref="char:EOLhyphen"/>buſes and errous thereof, for the eaſe and liberty o<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> His peo<g ref="char:EOLhyphen"/>ple, deſiring that all their Reſults and Conſultations may redound to the honour of theſe bleeding Nations, &amp;c.</hi>
+                  </p>
+                  <p>And his Majeſty hath further declared that (not<g ref="char:EOLhyphen"/>withſtanding the preſent diſtr<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctions, and diſſolving of the Treaty, yet) <hi>He deſires from His very heart and ſoule that the peace of His Kingdomes may <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> ſpeedily eſtabli<g ref="char:EOLhyphen"/>ſhed, and the liberty of the Subject preſerved und unvio<g ref="char:EOLhyphen"/>lated, whatſoever becomes of Him, &amp;c.</hi>
+                  </p>
+                  <p>Col. <hi>Ewers</hi> uſeth his Majeſty with much civility and reſpect, and the deportment of the Soldiery taketh deep impreſſion in his Majeſties heart, which cauſeth a great change and alteration in his Majeſties Royall Breaſt, and it is hoped few dayes will produce a convince<g ref="char:EOLhyphen"/>ment from his Majeſty of all his former errours.</p>
+                  <p>Divers ſhipping lye hovering upon this Coaſt, and it is ſuppoſed they would fain attempt a deſigne for reſcuing the <hi>King</hi> from the power and protection of the <hi>Army,</hi> but ſtrong Guards are placed and much vi<g ref="char:EOLhyphen"/>gilancy uſed for the defence and ſafety of this Iſland.</p>
+                  <closer>
+                     <dateline>Carisbrok Castle
+<date>3 Decemb. 1648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The further Demanus and Reſolution of the Army.</head>
+                  <p>VVHereas wee arr full of ſad apprehenſions concerning the danger and evil of the treaty with the <hi>King,</hi> and of any accommodation or reſti<g ref="char:EOLhyphen"/>tution of him thereupon, We did by our late Remon<g ref="char:EOLhyphen"/>ſtrance upon the Reaſons and Grounds therein expreſ<g ref="char:EOLhyphen"/>ſed, make our application thereby unto the preſen-Houſe of Commons, that the dangerous evill of that
+<pb n="4" facs="tcp:162469:3"/>
+                     <!-- PDF PAGE 31 -->
+way might be avoided, and the peace of the <hi>Kingdome</hi> ſetled upon more righteous, ſafe and hopefull grounds, <hi>viz.</hi> a more equall diſpenſing of Juſtice and Mercy in relation to things done or ſuffered in the late wars, and the eſtabliſhing of the future Government of this <hi>king<g ref="char:EOLhyphen"/>dom</hi> upon a ſafe ſucceſſion and equall Conſtitution of Parliaments, and that (for the ending of preſent, and avoiding of future Differences) to be Ratified by an Agreement and Subſcription of the people therunto. Which things we preſſed in the way of Reaſon and Perſwaſion onely, that they might be duely and time<g ref="char:EOLhyphen"/>ly conſidered. But to our griefe we find, in ſtead of any Satisfacton or a reaſonable anſwer thereto, they are wholly rejected, without any conſideration of what ever Reaſon or Juſtice might be in the things ſet forth or propounded therein; for what leſſe can be underſtood, when the things propounded were mainly for the avoidance of evils appearing in the Treaty with the King: And ſeeing the prevailing part of thoſe, to whom we did apply, to have as it were their eyes wilfully ſhut, and eares ſtopt, againſt any thing of Light or Reaſon offered to them, we find no place left for our former charitable or hopefull ap<g ref="char:EOLhyphen"/>prehenſions, concerning their errour in ſuch evill wayes; but remaining fully aſſured of the danger and deſtructiveneſſe thereof, as to all thoſe publique ends for which they were intruſted, and alſo of the juſt advantage and neceſſity which lie in the things we have propounded and inſiſt on, we now ſee nothing left, to which their engaging and perſiſting in ſuch waies, and rejection of theſe better things propounded, can rationally be attributed leſſe then a treacherous or
+<pb n="2" facs="tcp:162469:4"/>
+                     <!-- PDF PAGE 32 -->
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="4" facs="tcp:162469:4"/>
+                     <!-- PDF PAGE 32 -->
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="5" facs="tcp:162469:5"/>
+                     <!-- PDF PAGE 33 -->
+corrupt neglect of, and Apoſtacy from the Publique Truſt repoſed in them; although we could wiſh from our ſoules, we might yet find the contrary.</p>
+                  <p>Therefore it is our hearts deſire, and ſhall be our endeavour, that ſo much, both of the matter and form of the preſent Parliamentory Authority may be pre<g ref="char:EOLhyphen"/>ſerved, as can be ſafe, or will be uſefull to theſe ends, untill a juſt and full Conſtitution thereof, both for matter and form (ſutable to the publique ends, it ſerves for) can be entroduced.</p>
+                  <p>And therefore firſt, it ſhould be great rejoycing (if God ſaw it good) that the majority of the preſent Houſe of Commons were become ſenſible of the evil and diſtructiveneſſe of their late way, and would re<g ref="char:EOLhyphen"/>ſolvedly and vigorouſly apply themſelves to the ſpee<g ref="char:EOLhyphen"/>dy execution of juſtice, with the righting and eaſing of the oppreſſed people, and to a juſt ſettlement of the Kingdome upon ſuch foundations as have been pro<g ref="char:EOLhyphen"/>pounded by us, and others for that purpoſe, and would for the ſpeedier and ſurer proſecution of theſe things exclude from Communication in their Councels, all ſuch corrupt and Apoſtarized Members as have ap<g ref="char:EOLhyphen"/>peared hitherto, but to obſtruct and hinder ſuch mat<g ref="char:EOLhyphen"/>ter of Juſtice, Safety, and publique intereſt, and to pervert their Councels a contrary way and have there<g ref="char:EOLhyphen"/>in ſo ſhamefully both falſified, and forftied their Truſt,</p>
+                  <p>But however if God ſhal not ſee it good (to vouch<g ref="char:EOLhyphen"/>ſafe that mercy to them and the Kingdome) we ſhall ſecondly deſire, That ſo many of them as God hath kept upright, and ſhal touch with a juſt ſence of thoſe things, would by proteſtation or otherwiſe, acquit
+<pb n="5" facs="tcp:162469:5"/>
+                     <!-- PDF PAGE 33 -->
+themſelves from ſuch breach of Truſt, and approve their faithfulneſſe, by withdrawing from thoſe that perſiſt in the guilt therof, &amp; take ſuch a poſture, wher<g ref="char:EOLhyphen"/>by they may ſpeedily &amp; effectually proſecute thoſe ne<g ref="char:EOLhyphen"/>ceſſary and publique ends, without ſuch inteerupti<g ref="char:EOLhyphen"/>ons, Diverſions, or depravations of their Councell from the reſt, to their endleſſe trouble, and hazard of the Kingdom as formerly, and for ſo many of them, whoſe hearts God ſhall ſtir up thus to do.</p>
+                  <p>We ſhall therein, in this caſe of extremity, looke upon them as perſons having materially the chief Truſt of the Kingdom remaining in them, and though not a for<g ref="char:EOLhyphen"/>mall ſtanding power to be continued in them, or drawn into ordinary Preſidents; yet the beſt and moſt rightfull that can be had, as the preſent ſtate and exigence of af<g ref="char:EOLhyphen"/>fairs now ſtand; And we ſhal accordingly owne them, adhere to them, and be guided by them in their faithful proſecution of that truſt, in order vnto, and until the in<g ref="char:EOLhyphen"/>troducing of a more full and formal power in a juſt Repreſentative to be ſpeedy endeavoured.</p>
+                  <p>Now yet further to take away all jealouſies in rela<g ref="char:EOLhyphen"/>tion to our ſelves, which might with hold or diſccurſe any honeſt members from this courage, as we have the witneſſe of God in our hearts, that in theſe proceedings we do not ſeek, but even reſolve we wil not take advan<g ref="char:EOLhyphen"/>tages to our ſelves, either in point of profit or power; and that if God did open to us a way, wherin with ho<g ref="char:EOLhyphen"/>neſty and faithfulneſſe to the publique Intereſt, &amp; good people ingaged for us, we might preſently be diſcharge<g ref="char:EOLunhyphen"/>ed, ſo as we might not in our preſent Employments <hi>look</hi> on, and be acceſſary to, yea ſupporters of the Parlia<g ref="char:EOLhyphen"/>ment, in the preſent corrupt, oppreſſive and deſtructive
+<pb n="6" facs="tcp:162469:6"/>
+                     <!-- PDF PAGE 34 -->
+proceedings, wee ſhould with rejoycing, and without more ado embrace ſuch a diſcharge, rather then inter<g ref="char:EOLhyphen"/>poſe in theſe things to our owne vaſt trouble and haz<g ref="char:EOLhyphen"/>zard; ſo if we could but obtain a rational aſſurance for the effectuall proſecuting of theſe thing<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, we ſhall give any proportionable aſſurance on our parts, concer<g ref="char:EOLhyphen"/>ning our laying down of arms, when, and as we ſhould be required.</p>
+                  <p>But for the preſent as the caſe ſtands, we apprehend our ſelves oblieged in duty to God, this Kingdome, and good men therein, to approve our utmoſt abilities in all honeſt wayes, for the avoiding of theſe great evils which we have remonſtrated, and for proſecution of the good things we have propounded; and alſo that ſuch perſons who were the inviters of the late invaſi<g ref="char:EOLhyphen"/>on from Scotland, the Inſtigaters and incouragers of the late inſurrections within this Kingdome, and (thoſe forcible wayes failing) have ſtill purſued thoſe wicked deſignes by treacherous and corrupt councels, may be brought to publike juſtice according to their ſeverall demerits. For all theſe ends we are now drawing up with the Army to London, there to follow providence as God ſhall clear our way.</p>
+                  <p>Both Houſes having debated the Armies reſolutions the well-affected party voted, that they ſhould be ſa<g ref="char:EOLhyphen"/>tisfied in all things by them deſired; but divers diſſen<g ref="char:EOLhyphen"/>ted, and (as is ſaid) have deſe<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ted the Houſe.</p>
+                  <closer>
+                     <dateline>VVestmin.
+<date>4. Decemb. 2648.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
